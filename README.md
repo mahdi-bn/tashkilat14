@@ -1,3 +1,3 @@
 # tashkilat14
 lets go
-print
+print(90=q)
